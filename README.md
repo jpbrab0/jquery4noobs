@@ -1,8 +1,15 @@
 <p align="center">
 	<img src="./images/logo-jquery4noobs.png"/>
 </p>
+<p align="center">Um guia open-source para aprender o  básico de jquery!</p>
 
 # Roadmap
+
+## Introdução
+
+1. [Adicionando o jquery ao seu projeto](./00-introducao/adicionando-jquery.md')
+1. Por que Aprender jquery?
+1. [Algumas empresas que ainda utilizam o jquery](./00-introducao/empresas-jquery.md)
 
 ## Pré-requesitos
 
@@ -20,3 +27,12 @@
 1. Consumindo uma api **EM BREVE**
 
 
+# Contribuidores
+
+|<img src="https://avatars1.githubusercontent.com/u/58999202?s=460&u=450f987552a42e720e85d49e9226122f824cf1bb&v=4" width="150px"></img>|
+| :--:|
+|João Pedro|
+|[Twitter](twitter.com/jpbrab0)|
+
+
+<p align="center">Feito com 💜</p>
