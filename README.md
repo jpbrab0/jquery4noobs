@@ -8,7 +8,7 @@
 ## Introdução
 
 1. [Adicionando o jquery ao seu projeto](./00-introducao/adicionando-jquery.md)
-1. Por que Aprender jquery?
+1. [Por que Aprender jquery?](./00-introducao/por-que-aprender-jquery.md)
 1. [Algumas empresas que ainda utilizam o jquery](./00-introducao/empresas-jquery.md)
 
 ## Pré-requesitos
