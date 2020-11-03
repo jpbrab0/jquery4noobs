@@ -5,21 +5,22 @@
 
 # Roadmap
 
-## Introdução
-
-1. [Adicionando o jquery ao seu projeto](./00-introducao/adicionando-jquery.md)
-1. [Por que Aprender jquery?](./00-introducao/por-que-aprender-jquery.md)
-1. [Algumas empresas que ainda utilizam o jquery](./00-introducao/empresas-jquery.md)
-
 ## Pré-requesitos
 
 * [Saber o básico de HTML](https://github.com/sorenhe4rt/HTML4Noobs)
 * [Saber o básico de CSS](https://github.com/mathh95/css4noobs)
 *  [Saber o básico de JavaScript](https://github.com/ThiagoDellaNoce/javascript4noobs)
 
+## Introdução
+
+1. [Adicionando o jquery ao seu projeto](./00-introducao/adicionando-jquery.md)
+1. [Por que Aprender jquery?](./00-introducao/por-que-aprender-jquery.md)
+1. [Algumas empresas que ainda utilizam o jquery](./00-introducao/empresas-jquery.md)
+
 ## Básico
+
 1. [Manipulando a DOM com jquery](./01-basico/manipulando-dom.md)
-1. Pegando atributos de uma tag HTML **EM BREVE**
+1. [Manipulando atributos de uma tag HTML](./01-basico/atributos-jquery.md)
 1. Animações com o jquery **EM BREVE**
 1. Alterando estilos com jquery **EM BREVE**
 ## Avançado
