@@ -47,7 +47,7 @@ Agora você vai dar seus primeiros comandos com jquery!
 
 ```
 
-Caso não tenha entendido nada desse código, calma que agora vou esplicar!
+Caso não tenha entendido nada desse código, calma que agora vou explicar!
 
 
 Para você pegar uma classe, tag, ou id do HTML no jquery, utilizamos o $ que seria basicamente um:
