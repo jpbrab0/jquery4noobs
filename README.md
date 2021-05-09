@@ -35,6 +35,3 @@
 | :--:|
 |João Pedro|
 |[Twitter](twitter.com/jpbrab0)|
-
-
-<p align="center">Feito com 💜</p>
